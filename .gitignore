@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+structure.minder
+test.ipynb
+svm/models
+5-celebrity-faces-dataset
+__pycache__
+.fuse%
+encoder/model
+venv/
+encoder/__pycache__/
